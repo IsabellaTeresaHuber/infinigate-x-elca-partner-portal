@@ -1,6 +1,6 @@
 # Cloudflare Workers React Template
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com)
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IsabellaTeresaHuber/infinigate-x-elca-partner-portal)]](https://deploy.workers.cloudflare.com)
 
 A production-ready full-stack template for building scalable applications on Cloudflare. Features a Cloudflare Workers backend with Durable Objects for real-time data persistence (Users, Chats, Messages), paired with a modern React frontend using Vite, Tanstack Query, shadcn/ui, and Tailwind CSS.
 
@@ -109,7 +109,7 @@ bun build  # Builds assets to dist/
 wrangler deploy
 ```
 
-[[cloudflarebutton]]
+[[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IsabellaTeresaHuber/infinigate-x-elca-partner-portal)]
 
 **Production Tips**:
 - Set custom domain in Wrangler dashboard
