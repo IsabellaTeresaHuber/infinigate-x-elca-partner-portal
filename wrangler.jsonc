@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "vite-cf-do-runner",
+	"name": "infinigate-elca-port-vx61ctlc45rvbo6ilyyr1",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
